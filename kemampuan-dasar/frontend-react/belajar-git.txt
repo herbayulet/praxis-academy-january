@@ -1,4 +1,5 @@
 belajar git clone dan push
 belajar git conflict dan 
 hallo dunia
-selamat mencoba
+tolong jangan dirubah
+hallo dunia 1
