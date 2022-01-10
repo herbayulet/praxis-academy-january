@@ -1,1 +1,4 @@
-belajar git conflict dan merge
+belajar git clone dan push
+belajar git conflict dan 
+hallo dunia
+selamat mencoba
