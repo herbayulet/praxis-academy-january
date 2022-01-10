@@ -3,4 +3,3 @@ belajar git conflict dan
 hallo dunia
 tolong jangan dirubah
 please jangan diubah ubah
-selamat mencoba
