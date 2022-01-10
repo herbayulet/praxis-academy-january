@@ -1,9 +1,6 @@
 belajar git clone dan push
 belajar git conflict dan 
 hallo dunia
-<<<<<<< HEAD
 tolong jangan dirubah
 please jangan diubah ubah
-=======
 selamat mencoba
->>>>>>> 8a99f8e4f60130897913e444d04c7767f30245de
