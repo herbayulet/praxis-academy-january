@@ -2,4 +2,3 @@ belajar git clone dan push
 hallo dunia
 tolong jangan dirubah
 hallo dunia 1
-git hub learning
